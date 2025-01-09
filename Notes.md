@@ -49,6 +49,7 @@ Class-name object-name = new Class-Name(params);
 Inheritance 
 Polymorphism
 Abstraction
+Encapsulation
 
 
 
