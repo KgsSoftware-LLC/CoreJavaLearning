@@ -1,6 +1,7 @@
 ## Java Basics
 
 1. Primitive Data Types
+   ```
     1byte = 8 bits
     byte (1byte) 
     short (2byte) 
@@ -16,8 +17,10 @@
     char sampleCharacter = 's';
     int sum = 0;
     float sumFloat = 2.3f;
-
-2. Non Primitive Data types
+   
+    ```
+   
+3. Non Primitive Data types
         Classes
         Objects
         Interfaces
@@ -26,7 +29,7 @@
         String sampleString = "Hello World!";
 
 
-3. Math, Operations, Casting
+4. Math, Operations, Casting
 
 Widening Casting: Converting smaller size to large byte--->short-->char-->int-->long-->float-->double
 Narrowing Casting: Converting large size to small
@@ -57,6 +60,7 @@ Logical (!) (!(a>b))
 
 7. If Else / Elseif Switch
 
+```
 Syntax:
 if(condition1) {
 
@@ -65,7 +69,9 @@ if(condition1) {
 } else {
 
 }
+```
 
+```
 switch(expression) {
 
     case x:
@@ -77,15 +83,16 @@ switch(expression) {
     default:
     //
 }
-
+```
 8. for loop
-
+```
 for (int i =0; i< 10; i = i+2){
 
 }
+```
 
 9. while, do while
-
+```
 while(condition) {
 
 }
@@ -93,7 +100,7 @@ while(condition) {
 do {
 
 }while(condition)
-
+```
 
 ## Exercises
 
