@@ -10,6 +10,7 @@ Syntax:
 class class-name { }
 
 Ex:
+```
 class Person { 
     //Data members
     public string name;
@@ -21,7 +22,7 @@ public void display() {
     //Print person details.
 }
 }
-
+```
 ### Data types:
 String
 Char
@@ -33,7 +34,9 @@ float
 Syntax:
 access-specifier data-type varianble-name = value;
 Ex:
+```
 public string name = "John";
+```
 
 ### Access specifier
 public, private, protect 
@@ -44,7 +47,9 @@ acces-specifier return-type function-name() {}
 
 Object: Instance of a class
 Syn:
+```
 Class-name object-name = new Class-Name(params);
+```
 
 Inheritance 
 Polymorphism
